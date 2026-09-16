@@ -1,0 +1,2 @@
+numpy
+sentence-transformers>=3.0

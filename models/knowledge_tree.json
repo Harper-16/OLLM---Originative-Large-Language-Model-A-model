@@ -1,0 +1,749 @@
+{
+  "your name": {
+    "questions": [
+      {
+        "question": "what is your name",
+        "answer": "my name is Orin."
+      }
+    ],
+    "branches": {}
+  },
+  "your job": {
+    "questions": [
+      {
+        "question": "what is your job",
+        "answer": "My job is to help you with whatever you need."
+      }
+    ],
+    "branches": {}
+  },
+  "ai": {
+    "questions": [
+      {
+        "question": "what is ai",
+        "answer": "the simple answer is AI enables computers to think process and genrate text like humans."
+      }
+    ],
+    "branches": {}
+  },
+  "storage": {
+    "questions": [
+      {
+        "question": "what is storage",
+        "answer": "the simple answer is Storage keeps information so that it can be used later."
+      }
+    ],
+    "branches": {}
+  },
+  "squares": {
+    "questions": [
+      {
+        "question": "what is squares",
+        "answer": "the simple answer is A square is a four sided shape with equal sides and right angles."
+      }
+    ],
+    "branches": {}
+  },
+  "oxygen": {
+    "questions": [
+      {
+        "question": "what is oxygen",
+        "answer": "Oxygen is a chemical element that is important for many living organisms."
+      }
+    ],
+    "branches": {}
+  },
+  "biology": {
+    "questions": [
+      {
+        "question": "what is biology",
+        "answer": "Biology is the study of living organisms."
+      }
+    ],
+    "branches": {}
+  },
+  "physics": {
+    "questions": [
+      {
+        "question": "what is physics",
+        "answer": "Physics studies matter, energy, forces, motion, and how they interact."
+      }
+    ],
+    "branches": {}
+  },
+  "sun": {
+    "questions": [
+      {
+        "question": "what is sun",
+        "answer": "The Sun is a star at the center of our solar system."
+      }
+    ],
+    "branches": {}
+  },
+  "linux": {
+    "questions": [
+      {
+        "question": "what is linux",
+        "answer": "Linux is a family of open source operating systems."
+      }
+    ],
+    "branches": {}
+  },
+  "circles": {
+    "questions": [
+      {
+        "question": "what is circles",
+        "answer": "okay. A circle is a round shape where points are equally distant from its center."
+      }
+    ],
+    "branches": {}
+  },
+  "raspberry pi": {
+    "questions": [
+      {
+        "question": "what is raspberry pi",
+        "answer": "A Raspberry Pi is a small single board computer."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of raspberry pi": {
+    "questions": [
+      {
+        "question": "what is the purpose of raspberry pi",
+        "answer": "okay. A Raspberry Pi is a small single board computer."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of physics": {
+    "questions": [
+      {
+        "question": "what is the purpose of physics",
+        "answer": "Physics studies matter, energy, forces, motion, and how they interact."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of triangles": {
+    "questions": [
+      {
+        "question": "what is the purpose of triangles",
+        "answer": "A triangle is a shape with three sides."
+      }
+    ],
+    "branches": {}
+  },
+  "git": {
+    "questions": [
+      {
+        "question": "what is git",
+        "answer": "Git is a version control system used to track changes in files."
+      }
+    ],
+    "branches": {}
+  },
+  "cpu": {
+    "questions": [
+      {
+        "question": "what is cpu",
+        "answer": "A CPU executes instructions and performs calculations for a computer."
+      }
+    ],
+    "branches": {}
+  },
+  "attention": {
+    "questions": [
+      {
+        "question": "what is attention",
+        "answer": "sure. Attention allows a model to focus on different parts of a sequence when processing information."
+      }
+    ],
+    "branches": {}
+  },
+  "mathematics": {
+    "questions": [
+      {
+        "question": "what is mathematics",
+        "answer": "Mathematics is the study of numbers, patterns, quantities, and structures."
+      }
+    ],
+    "branches": {}
+  },
+  "ram": {
+    "questions": [
+      {
+        "question": "what is ram",
+        "answer": "RAM is temporary memory used by programs while they are running."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of squares": {
+    "questions": [
+      {
+        "question": "what is the purpose of squares",
+        "answer": "A square is a four sided shape with equal sides and right angles."
+      }
+    ],
+    "branches": {}
+  },
+  "chemistry": {
+    "questions": [
+      {
+        "question": "what is chemistry",
+        "answer": "basically, Chemistry studies substances, their properties, and how they interact."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of photosynthesis": {
+    "questions": [
+      {
+        "question": "what is the purpose of photosynthesis",
+        "answer": "Photosynthesis is the process plants use to convert light energy into chemical energy."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of language models": {
+    "questions": [
+      {
+        "question": "what is the purpose of language models",
+        "answer": "Language models learn patterns in text and predict what tokens are likely to come next."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of linux": {
+    "questions": [
+      {
+        "question": "what is the purpose of linux",
+        "answer": "Linux is a family of open source operating systems."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of artificial intelligence": {
+    "questions": [
+      {
+        "question": "what is the purpose of artificial intelligence",
+        "answer": "Artificial intelligence is technology that allows computers to perform tasks that normally require intelligence."
+      }
+    ],
+    "branches": {}
+  },
+  "computers": {
+    "questions": [
+      {
+        "question": "what is computers",
+        "answer": "A computer processes information according to instructions."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of neural networks": {
+    "questions": [
+      {
+        "question": "what is the purpose of neural networks",
+        "answer": "Neural networks are computational models made from connected layers that learn patterns from data."
+      }
+    ],
+    "branches": {}
+  },
+  "programming": {
+    "questions": [
+      {
+        "question": "what is programming",
+        "answer": "Programming is the process of writing instructions that a computer can execute."
+      }
+    ],
+    "branches": {}
+  },
+  "photosynthesis": {
+    "questions": [
+      {
+        "question": "what is photosynthesis",
+        "answer": "Photosynthesis is the process plants use to convert light energy into chemical energy."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of fractions": {
+    "questions": [
+      {
+        "question": "what is the purpose of fractions",
+        "answer": "A fraction represents a part of a whole."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of machine learning": {
+    "questions": [
+      {
+        "question": "what is the purpose of machine learning",
+        "answer": "Machine learning allows computers to learn patterns from data."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of data": {
+    "questions": [
+      {
+        "question": "what is the purpose of data",
+        "answer": "the simple answer is Data is information that can be stored, processed, and analyzed."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of programming": {
+    "questions": [
+      {
+        "question": "what is the purpose of programming",
+        "answer": "Programming is the process of writing instructions that a computer can execute."
+      }
+    ],
+    "branches": {}
+  },
+  "artificial intelligence": {
+    "questions": [
+      {
+        "question": "what is artificial intelligence",
+        "answer": "Artificial intelligence is technology that allows computers to perform tasks that normally require intelligence."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of sun": {
+    "questions": [
+      {
+        "question": "what is the purpose of sun",
+        "answer": "The Sun is a star at the center of our solar system."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of transformers": {
+    "questions": [
+      {
+        "question": "what is the purpose of transformers",
+        "answer": "Transformers are neural network architectures that use attention to process relationships between tokens."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of electricity": {
+    "questions": [
+      {
+        "question": "what is the purpose of electricity",
+        "answer": "Electricity involves electric charge and its movement."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of plants": {
+    "questions": [
+      {
+        "question": "what is the purpose of plants",
+        "answer": "Plants are living organisms that can use sunlight to produce energy through photosynthesis."
+      }
+    ],
+    "branches": {}
+  },
+  "moon": {
+    "questions": [
+      {
+        "question": "what is moon",
+        "answer": "The Moon is Earth's natural satellite."
+      }
+    ],
+    "branches": {}
+  },
+  "language models": {
+    "questions": [
+      {
+        "question": "what is language models",
+        "answer": "Language models learn patterns in text and predict what tokens are likely to come next."
+      }
+    ],
+    "branches": {}
+  },
+  "code": {
+    "questions": [
+      {
+        "question": "what is code",
+        "answer": "code is a set of instructions written for a computer."
+      }
+    ],
+    "branches": {}
+  },
+  "a bug": {
+    "questions": [
+      {
+        "question": "what is a bug",
+        "answer": "basically, a bug is an error or unexpected behavior in a program."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of gravity": {
+    "questions": [
+      {
+        "question": "what is the purpose of gravity",
+        "answer": "Gravity is a force that attracts objects with mass toward one another."
+      }
+    ],
+    "branches": {}
+  },
+  "transformers": {
+    "questions": [
+      {
+        "question": "what is transformers",
+        "answer": "Transformers are neural network architectures that use attention to process relationships between tokens."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of oxygen": {
+    "questions": [
+      {
+        "question": "what is the purpose of oxygen",
+        "answer": "Oxygen is a chemical element that is important for many living organisms."
+      }
+    ],
+    "branches": {}
+  },
+  "fractions": {
+    "questions": [
+      {
+        "question": "what is fractions",
+        "answer": "sure. A fraction represents a part of a whole."
+      }
+    ],
+    "branches": {}
+  },
+  "triangles": {
+    "questions": [
+      {
+        "question": "what is triangles",
+        "answer": "A triangle is a shape with three sides."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of attention": {
+    "questions": [
+      {
+        "question": "what is the purpose of attention",
+        "answer": "Attention allows a model to focus on different parts of a sequence when processing information."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of storage": {
+    "questions": [
+      {
+        "question": "what is the purpose of storage",
+        "answer": "Storage keeps information so that it can be used later."
+      }
+    ],
+    "branches": {}
+  },
+  "algorithms": {
+    "questions": [
+      {
+        "question": "what is algorithms",
+        "answer": "An algorithm is a sequence of steps used to solve a problem."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of circles": {
+    "questions": [
+      {
+        "question": "what is the purpose of circles",
+        "answer": "A circle is a round shape where points are equally distant from its center."
+      }
+    ],
+    "branches": {}
+  },
+  "electricity": {
+    "questions": [
+      {
+        "question": "what is electricity",
+        "answer": "Electricity involves electric charge and its movement."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of water": {
+    "questions": [
+      {
+        "question": "what is the purpose of water",
+        "answer": "okay. Water is a compound made from hydrogen and oxygen."
+      }
+    ],
+    "branches": {}
+  },
+  "neural networks": {
+    "questions": [
+      {
+        "question": "what is neural networks",
+        "answer": "Neural networks are computational models made from connected layers that learn patterns from data."
+      }
+    ],
+    "branches": {}
+  },
+  "debugging": {
+    "questions": [
+      {
+        "question": "what is debugging",
+        "answer": "the simple answer is debugging is the process of finding and fixing problems in code."
+      }
+    ],
+    "branches": {}
+  },
+  "a loop": {
+    "questions": [
+      {
+        "question": "what is a loop",
+        "answer": "a loop repeats a section of code."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of git": {
+    "questions": [
+      {
+        "question": "what is the purpose of git",
+        "answer": "Git is a version control system used to track changes in files."
+      }
+    ],
+    "branches": {}
+  },
+  "science": {
+    "questions": [
+      {
+        "question": "what is science",
+        "answer": "Science is the systematic study of the natural world."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of python": {
+    "questions": [
+      {
+        "question": "what is the purpose of python",
+        "answer": "Python is a programming language used to create software and solve problems."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of energy": {
+    "questions": [
+      {
+        "question": "what is the purpose of energy",
+        "answer": "Energy is the ability to cause change or do work."
+      }
+    ],
+    "branches": {}
+  },
+  "energy": {
+    "questions": [
+      {
+        "question": "what is energy",
+        "answer": "Energy is the ability to cause change or do work."
+      }
+    ],
+    "branches": {}
+  },
+  "water": {
+    "questions": [
+      {
+        "question": "what is water",
+        "answer": "Water is a compound made from hydrogen and oxygen."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of biology": {
+    "questions": [
+      {
+        "question": "what is the purpose of biology",
+        "answer": "Biology is the study of living organisms."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of earth": {
+    "questions": [
+      {
+        "question": "what is the purpose of earth",
+        "answer": "Earth is the planet where humans live."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of moon": {
+    "questions": [
+      {
+        "question": "what is the purpose of moon",
+        "answer": "The Moon is Earth's natural satellite."
+      }
+    ],
+    "branches": {}
+  },
+  "earth": {
+    "questions": [
+      {
+        "question": "what is earth",
+        "answer": "Earth is the planet where humans live."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of ram": {
+    "questions": [
+      {
+        "question": "what is the purpose of ram",
+        "answer": "RAM is temporary memory used by programs while they are running."
+      }
+    ],
+    "branches": {}
+  },
+  "data": {
+    "questions": [
+      {
+        "question": "what is data",
+        "answer": "Data is information that can be stored, processed, and analyzed."
+      }
+    ],
+    "branches": {}
+  },
+  "github": {
+    "questions": [
+      {
+        "question": "what is github",
+        "answer": "GitHub is a platform used to store and collaborate on software projects."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of github": {
+    "questions": [
+      {
+        "question": "what is the purpose of github",
+        "answer": "GitHub is a platform used to store and collaborate on software projects."
+      }
+    ],
+    "branches": {}
+  },
+  "a function": {
+    "questions": [
+      {
+        "question": "what is a function",
+        "answer": "the simple answer is a function is a reusable block of code that performs a task."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of mathematics": {
+    "questions": [
+      {
+        "question": "what is the purpose of mathematics",
+        "answer": "Mathematics is the study of numbers, patterns, quantities, and structures."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of algorithms": {
+    "questions": [
+      {
+        "question": "what is the purpose of algorithms",
+        "answer": "An algorithm is a sequence of steps used to solve a problem."
+      }
+    ],
+    "branches": {}
+  },
+  "plants": {
+    "questions": [
+      {
+        "question": "what is plants",
+        "answer": "Plants are living organisms that can use sunlight to produce energy through photosynthesis."
+      }
+    ],
+    "branches": {}
+  },
+  "a variable": {
+    "questions": [
+      {
+        "question": "what is a variable",
+        "answer": "a variable is a name used to store a value."
+      }
+    ],
+    "branches": {}
+  },
+  "python": {
+    "questions": [
+      {
+        "question": "what is python",
+        "answer": "Python is a programming language used to create software and solve problems."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of chemistry": {
+    "questions": [
+      {
+        "question": "what is the purpose of chemistry",
+        "answer": "in simple terms, Chemistry studies substances, their properties, and how they interact."
+      }
+    ],
+    "branches": {}
+  },
+  "gravity": {
+    "questions": [
+      {
+        "question": "what is gravity",
+        "answer": "Gravity is a force that attracts objects with mass toward one another."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of cpu": {
+    "questions": [
+      {
+        "question": "what is the purpose of cpu",
+        "answer": "okay. A CPU executes instructions and performs calculations for a computer."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of computers": {
+    "questions": [
+      {
+        "question": "what is the purpose of computers",
+        "answer": "A computer processes information according to instructions."
+      }
+    ],
+    "branches": {}
+  },
+  "machine learning": {
+    "questions": [
+      {
+        "question": "what is machine learning",
+        "answer": "Machine learning allows computers to learn patterns from data."
+      }
+    ],
+    "branches": {}
+  },
+  "the purpose of science": {
+    "questions": [
+      {
+        "question": "what is the purpose of science",
+        "answer": "Science is the systematic study of the natural world."
+      }
+    ],
+    "branches": {}
+  }
+}
